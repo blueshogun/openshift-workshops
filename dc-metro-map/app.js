@@ -54,5 +54,4 @@ app.use(function(err, req, res, next) {
   });
 });
 
-console.log("Hello openshift world!");
 module.exports = app;
